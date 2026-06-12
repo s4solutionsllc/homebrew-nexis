@@ -8,7 +8,7 @@ cask "nexis" do
   homepage "https://github.com/s4solutionsllc/Nexis"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :big_sur"
+  depends_on macos: :big_sur
 
   app "Nexis.app"
 
