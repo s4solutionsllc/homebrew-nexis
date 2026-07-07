@@ -2,7 +2,7 @@ cask "nexis" do
   version "2.8.3"
   sha256 "833183f9dbd2449eb0ee5e1b5a61054b397482ce0d6af808109764d49df028c8"
 
-  url "https://github.com/s4solutionsllc/Nexis/releases/download/v#{version}/Nexis-#{version}-macOS-arm64.dmg"
+  url "https://github.com/s4solutionsllc/Nexis/releases/download/v#{version}/Nexis-#{version}-macOS-arm64.brew.dmg"
   name "Nexis"
   desc "System Optimizer and Monitoring"
   homepage "https://github.com/s4solutionsllc/Nexis"
