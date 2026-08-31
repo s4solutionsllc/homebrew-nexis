@@ -1,6 +1,6 @@
 cask "nexis" do
-  version "2.9.1"
-  sha256 "a53a6005bb307d017c3373a22e7b39735a49ff2463c4d1d34bc9c96ddddcda70"
+  version "2.10.0"
+  sha256 "9730dbec7ff658754b01ee8a3f4f643d227c287a5e9000c5c9b20b21adf18b6f"
 
   url "https://github.com/s4solutionsllc/Nexis/releases/download/v#{version}/Nexis-#{version}-macOS-arm64.brew.dmg"
   name "Nexis"
